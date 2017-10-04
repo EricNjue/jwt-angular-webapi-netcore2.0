@@ -1,0 +1,11 @@
+C:\Users\MCM_DEV\Documents\Visual Studio 2017\Projects\WebAPI\WebAPI\bin\Debug\netcoreapp2.0\WebAPI.deps.json
+C:\Users\MCM_DEV\Documents\Visual Studio 2017\Projects\WebAPI\WebAPI\bin\Debug\netcoreapp2.0\WebAPI.runtimeconfig.json
+C:\Users\MCM_DEV\Documents\Visual Studio 2017\Projects\WebAPI\WebAPI\bin\Debug\netcoreapp2.0\WebAPI.runtimeconfig.dev.json
+C:\Users\MCM_DEV\Documents\Visual Studio 2017\Projects\WebAPI\WebAPI\bin\Debug\netcoreapp2.0\WebAPI.dll
+C:\Users\MCM_DEV\Documents\Visual Studio 2017\Projects\WebAPI\WebAPI\obj\Debug\netcoreapp2.0\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\MCM_DEV\Documents\Visual Studio 2017\Projects\WebAPI\WebAPI\obj\Debug\netcoreapp2.0\WebAPI.AssemblyInfoInputs.cache
+C:\Users\MCM_DEV\Documents\Visual Studio 2017\Projects\WebAPI\WebAPI\obj\Debug\netcoreapp2.0\WebAPI.AssemblyInfo.cs
+C:\Users\MCM_DEV\Documents\Visual Studio 2017\Projects\WebAPI\WebAPI\bin\Debug\netcoreapp2.0\WebAPI.pdb
+C:\Users\MCM_DEV\Documents\Visual Studio 2017\Projects\WebAPI\WebAPI\obj\Debug\netcoreapp2.0\WebAPI.dll
+C:\Users\MCM_DEV\Documents\Visual Studio 2017\Projects\WebAPI\WebAPI\obj\Debug\netcoreapp2.0\WebAPI.pdb
+C:\Users\MCM_DEV\Documents\Visual Studio 2017\Projects\WebAPI\WebAPI\obj\Debug\netcoreapp2.0\WebAPI.csprojResolveAssemblyReference.cache
